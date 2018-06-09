@@ -1,7 +1,4 @@
-# 2018-TianChi-Double-high-Round-1
-2018年天池美年双高初赛代码
-
-0.make_TXT_to_PANDAS.py 将原始txt数据转化为pandas可读数据
+﻿0.make_TXT_to_PANDAS.py 将原始txt数据转化为pandas可读数据
 1.wish_train_label.py 清洗数据的标签
 2.clean_data_part.py 清晰0得到的数据 默认选择初赛b数据
 bk_up.py 模型训练 大约3小时 默认选择清洗后的初赛b数据
